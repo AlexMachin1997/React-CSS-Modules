@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.red  {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.App button {
+  background-color: 'green';
+  color: 'white';
+  font: 'inherit';
+  border: '1px solid green';
+  padding: '8px';
+  cursor: 'pointer';
+}
